@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.banner{
+    background-color: #6F79A8;
+    color: white;
+    height: 140px;
+}
+section.left{
+    background-color: #9FA8DA ;
+    width: 160px;
+    height: 85px;
+    margin: 5px;
+}
