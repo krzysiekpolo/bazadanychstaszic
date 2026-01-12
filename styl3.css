@@ -1,0 +1,15 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+section{
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+
+main{
+    background-color: seashell;
+    height: 500px;
+}
+
